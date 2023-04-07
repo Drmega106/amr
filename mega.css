@@ -1,0 +1,28 @@
+.name{
+  color: White;
+  font-size: 20px;
+  width: fit-content;
+  margin: 30px auto 0px 20px;
+}
+
+.title {
+  color: white;
+  width: fit-content;
+  font-size: 50px;
+  margin: 30px 20px 0px auto;
+}
+
+body {
+  background-color: black;
+}
+
+a {
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  margin: 30px 20px 0px auto;
+  display: block;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 5px;
+}
