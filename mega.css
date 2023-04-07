@@ -6,6 +6,7 @@
 }
 .container{
   background-image: url('amr.jpg');
+  box-shadow: 0px 5px 5px 5px rgba(129,209,235,0.54);
   margin: 30px;
 }
 .title {
