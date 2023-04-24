@@ -69,15 +69,6 @@ a {
   width: 50px;
 }
 
-a:hover {
-  background-color: transparent;
-  color: white;
-  border: 1px solid white;
-}
-a:last-child:hover {
-  border: none;
-}
-
 .des {
   margin: 10px 5px 10px auto;
   text-align: right;
