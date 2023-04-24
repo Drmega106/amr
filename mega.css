@@ -46,25 +46,19 @@ height: 100%;
 }
 
 a {
-  background-color: rgb(241, 241, 241);
+  background-color: transparent;
   color: black;
   text-decoration: none;
-  margin: 10px 5px 4px auto;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+  margin: 10px;
+  display: block;
   width: fit-content;
   padding: 7px;
-  border-radius: 2px;
-}
-a:last-child {
-  padding: 0;
-  background-color: transparent;
-  cursor: pointer;
 }
 
+
+
 .sicons {
-  width: 20px;
+  width: 50px;
   margin-right: 5px;
 }
 
