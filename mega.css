@@ -45,6 +45,16 @@ height: 100%;
   font-weight: 600;
 }
 
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  
+  
+  
+  }
+
 a {
   background-color: transparent;
   color: black;
