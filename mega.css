@@ -56,9 +56,8 @@ a {
   background-color: transparent;
   color: black;
   text-decoration: none;
-  margin: 10px;
+  margin: 10px 5px;
   width: fit-content;
-  padding: 7px;
   user-select: none;
   cursor: pointer;
 }
