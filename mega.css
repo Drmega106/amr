@@ -46,6 +46,8 @@ height: 100%;
 }
 
 .links {
+  text-align: right;
+  margin-top:10px;
   }
 
 a {
@@ -60,12 +62,12 @@ a {
 
 
 .sicons {
-  width: 50px;
+  width: 40px;
   margin-right: 5px;
 }
 
 .icon {
-  width: 50px;
+  width: 40px;
 }
 
 .des {
