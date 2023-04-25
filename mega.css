@@ -49,7 +49,7 @@ height: 100%;
   text-align: right;
   margin:20px 5px 10px auto;
   width: fit-content;
-  
+  user-select: none;
   }
 
 a {
@@ -59,6 +59,8 @@ a {
   margin: 10px;
   width: fit-content;
   padding: 7px;
+  user-select: none;
+  cursor: pointer;
 }
 
 
